@@ -1,0 +1,3 @@
+[tool.pytest.ini_options]
+addopts = " --durations=10 -l -vv --alluredir=allure-results"
+
